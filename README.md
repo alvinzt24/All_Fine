@@ -2,7 +2,7 @@
 
  ## Menambahkan Global Config ##
 - Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email 
-- konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository. 
+- konfigurasi ini bisa dilakukan untuk global repository atau individual repository. 
 - apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 - Config Global Repository 
 
@@ -18,7 +18,7 @@
 - git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever. 
 - git remote add origin [url], perintah untuk menambahkan remote server/repository server pada local repositry (working directory) 
 
-## Membuat Reposiory Local ##
+## Membuat Repository Local ##
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
 - klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command 
 - Buat direktory project praktikum pertama dengan nama latihan1
@@ -29,7 +29,7 @@
  
 	>> $ cd latihan1
 
-## Membuat Reposiory Local ##
+## Membuat Repository Local ##
 - Jalankan perintah git init, untuk membuat repository local.
 - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git 
 - Pada direktori tersebut, semua perubahan pada working directory akan disimpan. 
@@ -58,7 +58,7 @@
 	>> $ git commit -m “File pertama saya”
 
 ## Membuat repository server ##
-- Server reopsitory yang akan kita gunakan adalah http://github.com 
+- Server repository yang akan kita gunakan adalah http://github.com 
 - Anda harus membuat akun terlebih dahulu. 
 - Pada laman github, klik tombol start a project, atau 
 - Dari menu (icon +) klik New Repository
