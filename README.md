@@ -25,7 +25,8 @@
 - Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory) 
 - direktory aktif menjadi: d:\labs_pemrograman1\latihan1
 
-	>> $ mkdir latihan1 
+	>> $ mkdir latihan1
+ 
 	>> $ cd latihan1
 
 ## Membuat Reposiory Local ##
