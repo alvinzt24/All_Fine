@@ -5,8 +5,9 @@
 • konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository. 
 • apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 • Config Global Repository 
-	$ git config --global user.name “nama_user”
-	$ git config --global user.email “nama_user”
+
+	 >> $ git config --global user.name “nama_user”
+	 >> $ git config --global user.email “nama_user”
 
 >> Perintah Dasar Git
 • git init, perintah untuk membuat repository local 
