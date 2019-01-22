@@ -7,6 +7,7 @@
 - Config Global Repository 
 
 	 >> $ git config --global user.name “nama_user”
+
 	 >> $ git config --global user.email “nama_user”
 
 ## Perintah Dasar Git ##
