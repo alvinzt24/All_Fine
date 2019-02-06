@@ -48,12 +48,16 @@
 
 	>> $ echo “#Latihan 1” >> README.md
 
+	![alt text](4.png)
+
 - File README.md berhasil dibuat. 
 
 ## Menambahkan File baru pada repository ##
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 
 	>> $ git add README.md
+
+	![alt text](5.png)
 
 - File README.md berhasil ditambahkan. 
 	
@@ -62,6 +66,8 @@
 - Perubahan berhasil disimpan. 
 
 	>> $ git commit -m “File pertama saya”
+
+	![alt text](6.png)
 
 ## Membuat repository server ##
 - Server repository yang akan kita gunakan adalah http://github.com 
@@ -78,12 +84,16 @@
 - Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 
 	>> $ git remote add origin https://github.com/..../.....git
-
+	
+	![alt text](7.png)
+	
 ## Push (Mengirim perubahan ke server) ##
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 - Perintah ini akan meminta memasukkan username dan password pada akun github.com 
 
 	>> $ git push -u origin master
+
+	![alt text](8.png)
 
 ## Melihat hasilnya pada server repository ##
 - Buka laman github.com, arahkan pada repositorinya. 
