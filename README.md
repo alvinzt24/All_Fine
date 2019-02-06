@@ -10,6 +10,8 @@
 
 	 >> $ git config --global user.email “nama_user”
 
+	![alt text](1.png)
+
 ## Perintah Dasar Git ##
 - git init, perintah untuk membuat repository local 
 - git add, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit. 
@@ -29,12 +31,16 @@
  
 	>> $ cd latihan1
 
+	![alt text](2.png)
+
 ## Membuat Repository Local ##
 - Jalankan perintah git init, untuk membuat repository local.
 - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git 
 - Pada direktori tersebut, semua perubahan pada working directory akan disimpan. 
 
 	>> $ git init
+
+	![alt text](3.png)
 
 ## Menambahkan File baru pada repository ##
 - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository) 
